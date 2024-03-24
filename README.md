@@ -41,9 +41,8 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/yourusername/opencv-facedetection.git
+```
 
+### 4. Update the Source Code
 
-###4. Update the Source Code
-'''
 face_cascade.load("EnterYourPathTo_haarcascade_frontalface_default.xml");
-'''
